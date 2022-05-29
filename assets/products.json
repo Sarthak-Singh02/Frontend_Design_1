@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Curacao Triple Sec",
+            "desc": "Apple iPhone 12th generation",
+            "brief": "Apple iPhone 12th generation",
+            "price": 5,
+            "color": "#33505a",
+            "image": "https://cdn.webshopapp.com/shops/51849/files/177090647/500x500x2/curacao-liqueur-curacao-liqueur-red-50ml.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Senior Bleu Curacao",
+            "desc": "Google Pixel phone 5th generation",
+            "brief": "Apple iPhone 12th generation",
+            "price": 6,
+            "color": "#00ac51",
+            "image": "https://static.specsonline.com/wp-content/uploads/2021/08/076340602750.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Curacao Raisin",
+            "desc": "Apple Macbook air with apple silicon",
+            "brief": "Apple iPhone 12th generation",
+            "price": 9,
+            "color": "#e0bfae",
+            "image": "https://cdn.shopify.com/s/files/1/0227/0581/products/The-Genuine-Orange-Curacao-Liqueur-750ML-BTL_620x.jpg?v=1587037202"
+        },
+        {
+            "id": 4,
+            "name": "Genuine Curacao",
+            "desc": "Sony Playstation 5th generation",
+            "brief": "Apple iPhone 12th generation",
+            "price": 7,
+            "color": "#544ee4",
+            "image": "https://cdn.webshopapp.com/shops/51849/files/18995805/500x500x2/curacao-liqueur-curacao-liqueur-green.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Senior Curacao",
+            "desc": "Apple Aipods Pro 1st generation",
+            "brief": "Apple iPhone 12th generation",
+            "price": 8,
+            "color": "#e3e4e9",
+            "image": "https://cdn.shopify.com/s/files/1/0227/0581/products/The-Genuine-Orange-Curacao-Liqueur-750ML-BTL_620x.jpg?v=1587037202"
+        },
+        {
+            "id": 6,
+            "name": "Curacao Triple Sec",
+            "desc": "Apple iPad Pro 2020 edition",
+            "brief": "Apple iPhone 12th generation",
+            "price": 6,
+            "color": "#f73984",
+            "image": "https://static.specsonline.com/wp-content/uploads/2021/08/076340602750.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Senior Curacao",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "brief": "Apple iPhone 12th generation",
+            "price": 7,
+            "color": "#1c1c1c",
+            "image": "https://cdn.webshopapp.com/shops/51849/files/18995805/500x500x2/curacao-liqueur-curacao-liqueur-green.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Genuine Curacao",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "brief": "Apple iPhone 12th generation",
+            "price": 5,
+            "color": "#7c95eb",
+            "image": "https://cdn.webshopapp.com/shops/51849/files/177090647/500x500x2/curacao-liqueur-curacao-liqueur-red-50ml.jpg"
+        }
+    ]
+}
